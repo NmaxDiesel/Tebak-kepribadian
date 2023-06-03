@@ -2,6 +2,8 @@
 
 BG
 
+Game mgkn, tanpa ad psiko
+
 
 OBJ
 
